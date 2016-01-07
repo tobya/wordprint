@@ -32,7 +32,7 @@ begin
 
     WordApp.PrintOut();
 
-    //C:\Users\toby\Documents\GitHub\wordprint>wordprint "http://backoffice.cookingisfun.ie/reports/dailysheet_week.php?DailySheetID=731&authtoken=3c5a24bc-90e1-4fa5-8b88-706fa0f1bb33"
+   
 
 
 
